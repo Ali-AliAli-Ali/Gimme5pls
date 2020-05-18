@@ -1,4 +1,4 @@
-include <iostream>
+#include <iostream>
 using namespace std;
 unsigned int func(int* L, int* R, int size, int i, int* prevL)
 {
